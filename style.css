@@ -42,7 +42,7 @@ h1{
   margin-bottom: 50px;
 }
 .wave{
-  background-image: url(/images/wave.svg);
+  background-image: url(/profile-page/images/wave.svg);
   background-size: cover;
   height: 300px;
 }
